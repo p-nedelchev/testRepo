@@ -1,8 +1,5 @@
 package sumstring;
 
-/**
- * Created by clouway on 26.04.16.
- */
 public class Demo {
   public static void main(String[] args) {
        try {
@@ -13,6 +10,5 @@ public class Demo {
           } catch (NullPointerException e) {
             System.out.println("Error");
           }
-
-            }
+         }
 }

@@ -1,5 +1,5 @@
 package sumstring;
-//how are you 
+//yes or no  
 public class Demo {
   public static void main(String[] args) {
        try {

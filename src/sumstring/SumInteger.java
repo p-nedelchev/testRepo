@@ -5,6 +5,13 @@ package sumstring;
  */
 public class SumInteger {
 
+
+    /**
+     * Calculates the sum of two integer numbers
+     * @param a int first number
+     * @param b int second number
+     * @return int sum of an and b
+     */
     public int sum(int a, int b) {
         return a + b;
     }

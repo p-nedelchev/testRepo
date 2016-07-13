@@ -10,5 +10,9 @@ public class Demo {
           } catch (NullPointerException e) {
             System.out.println("Error");
           }
+      int a = 10;
+      int b = 5;
+      SumInteger s = new SumInteger();
+      System.out.println(s.sum(a,b));
          }
 }

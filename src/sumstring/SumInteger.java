@@ -15,4 +15,9 @@ public class SumInteger {
     public int sum(int a, int b) {
         return a + b;
     }
+
+    public String intToString(int a){
+        String str = String.valueOf(a);
+        return str;
+    }
 }
